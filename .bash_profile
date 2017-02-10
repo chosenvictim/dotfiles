@@ -14,8 +14,6 @@ export CLICOLOR=1
 export PS1="\u@\h \W\[\033[32m\]\$(parse_git_branch)\[\033[00m\] $ "
 
 # Alias
-alias doorsb='cd ~/Documents/hashtaag/doors-backend';
-alias doorsw='cd ~/Documents/hashtaag/doors-web';
 alias ll="ls -GFlash";
 
 
